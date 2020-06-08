@@ -7,7 +7,22 @@ I coded this for an exam to be able to get information without having to apply t
 
 Disclaimer !
 -
-There is no data verification, and the the code couldn't be more uggly. But I probably won't use it any time soon again, and it worked out fine for the 1h long exam.
+There is no data verification, and the the code couldn't be more **uggly**. But I probably won't use it any time soon again, and it worked out fine for the hour long exam.
+
+
+Features :
+-
+The tool can print out : 
+*the ip's class
+*the ip corresponding binary value*
+*the masks corresponding binary value
+*the network part of the ip
+*the local part of the ip
+*the network's broadcasting adress
+*the subnet the machine is on
+*the subnet's broadcasting adress
+*the number of possible subnets for the given ip/mask couple
+*the amount of possible machines per subnet
 
 
 Install & Run
