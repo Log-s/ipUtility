@@ -14,20 +14,24 @@ Install & Run
 -
 Python3 should be installed on the computer.
 
+Run :
+
 ```python3 ipUtility.py```
 
 
 Use
 -
-ip@ : specefies an IP
+commands :
 
-ma@  : specefies a mask
+    ip@ : specefies an IP
 
-cl@  : specefies class (works with mask only)
+    ma@  : specefies a mask
 
-&   : operator to bind to options
+    cl@  : specefies class (works with mask only)
 
-q   : exists the program
+    &   : operator to bind to options
+
+    q   : exists the program
 
 
 combinations :
