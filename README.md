@@ -14,8 +14,8 @@ Features :
 -
 The tool can print out : 
 * the ip's class
-* the ip corresponding binary value*
-* the masks corresponding binary value
+* the ip's corresponding binary value
+* the mask's corresponding binary value
 * the network part of the ip
 * the local part of the ip
 * the network's broadcasting adress
